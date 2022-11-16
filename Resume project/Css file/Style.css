@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.39),rgba(0,0,0,0.39)),
+    url("wallpaper\ matrix.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover ;
+    background-attachment: fixed;
+    font-family: sans-serif;
+    text-align: justify;
+    
+}
+table {
+    
+    
+}    
+       
+
+
+#whitepaper {
+    height: 1000px;
+    width: 800px;
+    position: absolute;
+    left: 190px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    z-index: 1;
+}
+#resumepic {
+    position:absolute;
+    top: 80px;
+    left: 230px;
+    border-style: solid;
+    border-color: darkgreen;
+    border-width: 5px;
+    z-index: 2;
+}
+
+
+
+h1,h2, h3, h4 {
+    position: relative;
+    color: white;
+    top: 120px;
+    left: 430px;
+    z-index: 5;
+    
+}
+p {
+    position: relative;
+    top: 150px;
+    left: 230px;
+    color: white;
+    z-index: 6;
+
+}
+li {
+    position: relative;
+    top: 150px;
+    left: 230px;
+    color: white;
+    z-index: 7;
+}
+
